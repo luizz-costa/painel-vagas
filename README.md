@@ -55,3 +55,5 @@ http://localhost/painel-vagas/
 ```bash 
 http://localhost:8080/painel-vagas/
 ```
+### 5. Demonstração do Painel
+![Demonstração do Painel](https://github.com/user-attachments/assets/c1bf5b26-63eb-4716-bdae-59a4a9cb5013)
