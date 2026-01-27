@@ -1,0 +1,5 @@
+config.php
+Databse.php
+.env
+/vendor
+.vscode/
