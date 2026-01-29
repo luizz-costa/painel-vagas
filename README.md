@@ -57,3 +57,11 @@ http://localhost:8080/painel-vagas/
 ```
 ### 5. Demonstração do Painel
 ![Demonstração do Painel](https://github.com/user-attachments/assets/c1bf5b26-63eb-4716-bdae-59a4a9cb5013)
+
+## ⚡ Contato
+
+> 👨‍💻 **Desenvolvido por [Luiz F. Costa](https://luizzcosta.site)**  
+> 🌐 Portfólio: [luizzcosta.site](https://luizzcosta.site)  
+> 💻 GitHub: [github.com/luizz-costa](https://github.com/luizz-costa)  
+> 💼 LinkedIn: [linkedin.com/in/luizz-costa](https://linkedin.com/in/luizz-costa)  
+> 📧 Email: [luizcostavzp@gmail.com](mailto:luizcostavzp@gmail.com)
